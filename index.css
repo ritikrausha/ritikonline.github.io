@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first_section{
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(pexels-erik-mclean-4592255.jpg);
+}
+.first_section h1{
+   text-align: center;
+   padding-top: 450px;
+   color:white;
+   font-size: 65px;
+}
+/* this is the second section */
+.second_section{
+    width: 100%;
+    height: 600px;
+   
+     
+
+}
+.second_section h1{
+     
+       text-align: center;
+       margin-top: 40px;
+       font-size: 45px;
+}
+.second_section p{
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 20px;
+    color:black;
+}
+
+.all_projects
+{
+    width: 80%;
+    height: 300px;
+ 
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.Projects{
+  
+    
+    margin-left: 60px;
+    width: 200px;
+    height:  200px;
+    border-radius: 50%;
+    float: left;
+   
+}
+.Projects img{
+    border-radius: 50%;
+}
+
+/* this is the third section */
+
+.third-section{
+
+    
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(pexels-pixabay-258174.jpg);
+}
+
+/* this is icon section*/
+
+.icon-1{
+  float: left;
+  padding-top: 40px;
+  padding-left: 15%;
+  font-size: 45px;
+  color: yellow;
+}
+.third_icon{
+    font-size: 10px;
+    color: white;
+}
